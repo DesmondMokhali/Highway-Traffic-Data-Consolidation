@@ -2,6 +2,12 @@
 
 This project tackles national highway decongestion through data analysis from various toll plazas. Each plaza, managed by different operators, uses unique file formats. My objective is to consolidate this data into a single, usable format.  
 
+![traffic](https://github.com/user-attachments/assets/057d1c7f-bfc4-4471-9e3c-c4bcd7ee5323)
+
+Photo by <a href="https://unsplash.com/@uimartin?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">ui-martin</a> on <a href="https://unsplash.com/photos/a-busy-city-street-filled-with-lots-of-traffic-SuKAltSwdxs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
+
+
 ### Objectives:  
 - Leverage Apache Airflow to construct a Data Extraction, Transformation, and Load (ETL) pipeline.  
 - Extract data from CSV, TSV, and fixed-width files.  
