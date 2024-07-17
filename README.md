@@ -112,4 +112,4 @@ Photo by <a href="https://unsplash.com/@uimartin?utm_content=creditCopyText&utm_
 
 
 ## 7. Conclusion
-This document has outlined a professional data engineer's approach to building an Apache Airflow DAG for highway traffic data consolidation. By following these steps and leveraging the power of Airflow, you can efficiently extract, transform, and load data from diverse sources into a unified format, paving the way for valuable traffic analysis and potential congestion mitigation strategies.
+This document has outlined a professional data engineer's approach to building an Apache Airflow DAG for consolidating traffic data from various toll plazas. This exercise served as valuable practice for the skills I acquired during the IBM Data Engineering certificate program. By leveraging BashOperator tasks and data transformation techniques, we can effectively extract, transform, and load the data into a staging area for further analysis. This approach paves the way for streamlined traffic management and potential decongestion strategies on national highways.
