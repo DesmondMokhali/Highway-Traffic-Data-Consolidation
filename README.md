@@ -8,7 +8,7 @@ Photo by <a href="https://unsplash.com/@uimartin?utm_content=creditCopyText&utm_
   
 
 
-### Objectives:  
+### Objectives  
 - Leverage Apache Airflow to construct a Data Extraction, Transformation, and Load (ETL) pipeline.  
 - Extract data from CSV, TSV, and fixed-width files.  
 - Perform data transformation.  
@@ -47,7 +47,7 @@ Photo by <a href="https://unsplash.com/@uimartin?utm_content=creditCopyText&utm_
 
 ![dag_definition](https://github.com/user-attachments/assets/4820e025-d7a8-4bc0-b9ed-2e9418e39121)
 
-## 3. Tasks with BashOperator:      
+## 3. Tasks with BashOperator      
   
 1. **unzip_data:** 
 - Unzip the downloaded data using the `tar` command.  
@@ -87,7 +87,7 @@ Photo by <a href="https://unsplash.com/@uimartin?utm_content=creditCopyText&utm_
 
 ![task_pipeline](https://github.com/user-attachments/assets/dfab1d25-e3cb-4cad-84bd-3f336de0a00c)
 
-## 4. DAG Operations:
+## 4. DAG Operations
 1. **Submit the DAG:**    
 - Use the Airflow CLI or Web UI to submit the DAG
 
@@ -98,12 +98,12 @@ Photo by <a href="https://unsplash.com/@uimartin?utm_content=creditCopyText&utm_
 
 ![unpause_trigger_dag](https://github.com/user-attachments/assets/cd470aeb-cb9c-4f30-a17f-af3ea8e28a27)
 
-## 5. DAG Tasks:
+## 5. DAG Tasks
 
 ![dag_tasks](https://github.com/user-attachments/assets/70916da0-865c-4268-abdc-62a147ff764c)
 
 
-## 6. DAG Runs:
+## 6. DAG Runs
 
 ![dag_runs](https://github.com/user-attachments/assets/2cf4a297-22ab-407b-9efb-fd02096632df)
 
@@ -111,5 +111,5 @@ Photo by <a href="https://unsplash.com/@uimartin?utm_content=creditCopyText&utm_
 ![dag_runs_2](https://github.com/user-attachments/assets/f8a9f2d5-cdff-446d-b8cd-8d3ff8bdf434)
 
 
-## 7. Conclusion
+## Conclusion
 This document has outlined a professional data engineer's approach to building an Apache Airflow DAG for consolidating traffic data from various toll plazas. This exercise served as valuable practice for the skills I acquired during the IBM Data Engineering certificate program. By leveraging BashOperator tasks and data transformation techniques, we can effectively extract, transform, and load the data into a staging area for further analysis. This approach paves the way for streamlined traffic management and potential decongestion strategies on national highways.
