@@ -111,3 +111,5 @@ Photo by <a href="https://unsplash.com/@uimartin?utm_content=creditCopyText&utm_
 ![dag_runs_2](https://github.com/user-attachments/assets/f8a9f2d5-cdff-446d-b8cd-8d3ff8bdf434)
 
 
+## 7. Conclusion
+This document has outlined a professional data engineer's approach to building an Apache Airflow DAG for highway traffic data consolidation. By following these steps and leveraging the power of Airflow, you can efficiently extract, transform, and load data from diverse sources into a unified format, paving the way for valuable traffic analysis and potential congestion mitigation strategies.
