@@ -90,14 +90,13 @@ Photo by <a href="https://unsplash.com/@uimartin?utm_content=creditCopyText&utm_
 ## 4. DAG Operations:
 1. **Submit the DAG:**    
 - Use the Airflow CLI or Web UI to submit the DAG
-![submit_dag](https://github.com/user-attachments/assets/f53546dd-1dd8-458c-99f3-c88b5d060371)
 
+![submit_dag](https://github.com/user-attachments/assets/2a4b9421-7cb3-4323-816e-5ca8fb3bc278)
 
 2. **Unpause & Trigger:**
 - Unpause and trigger the DAG execution through the CLI or Web UI.
 
-![unpause_trigger_dag](https://github.com/user-attachments/assets/a7ca4f74-3525-4f8c-b509-d17c0437a477)
-
+![unpause_trigger_dag](https://github.com/user-attachments/assets/cd470aeb-cb9c-4f30-a17f-af3ea8e28a27)
 
 ## 5. DAG Tasks:
 
@@ -105,7 +104,8 @@ Photo by <a href="https://unsplash.com/@uimartin?utm_content=creditCopyText&utm_
 
 
 ## 6. DAG Runs:
-![dag_runs](https://github.com/user-attachments/assets/90de98ea-ddd1-42e5-9f6a-4a425b71c946)
+
+![dag_runs](https://github.com/user-attachments/assets/2cf4a297-22ab-407b-9efb-fd02096632df)
 
 
 ![dag_runs_2](https://github.com/user-attachments/assets/f8a9f2d5-cdff-446d-b8cd-8d3ff8bdf434)
