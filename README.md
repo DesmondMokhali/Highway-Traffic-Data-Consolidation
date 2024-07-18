@@ -18,7 +18,7 @@ Photo by <a href="https://unsplash.com/@uimartin?utm_content=creditCopyText&utm_
 1. **Terminal:**
 - Launch your terminal (Linux or WSL for Windows).  
 
-3. **Staging Area:**    
+2. **Staging Area:**    
 - Create a directory structure:  
  `sudo mkdir -p /home/project/airflow/dags/finalassignment/staging`  
 
