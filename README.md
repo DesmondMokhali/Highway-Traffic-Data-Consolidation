@@ -20,14 +20,14 @@ Photo by <a href="https://unsplash.com/@uimartin?utm_content=creditCopyText&utm_
 
 2. **Staging Area:**    
 - Create a directory structure:  
- `sudo mkdir -p /home/project/airflow/dags/finalassignment/staging`  
+  *                    `sudo mkdir -p /home/project/airflow/dags/finalassignment/staging`  
 
 - Grant appropriate permissions:  
-`sudo chmod -R 777 /home/project/airflow/dags/finalassignment`  
+*                      `sudo chmod -R 777 /home/project/airflow/dags/finalassignment`  
   
 3. **Data Download:**    
 - Download the dataset using curl:  
-`sudo curl https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DB0250EN-SkillsNetwork/labs/Final%20Assignment/tolldata.tgz -o /home/project/airflow/dags/finalassignment/tolldata.tgz`  
+*                      `sudo curl https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DB0250EN-SkillsNetwork/labs/Final%20Assignment/tolldata.tgz -o /home/project/airflow/dags/finalassignment/tolldata.tgz`  
 
 ## 2: Building the DAG  
   
